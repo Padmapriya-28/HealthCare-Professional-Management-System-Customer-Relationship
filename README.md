@@ -777,16 +777,3 @@ This system demonstrates the **AI-First CRM** paradigm:
 3. **Tool-Based Architecture**: Each capability is a discrete, testable tool
 4. **Client-Side State Management**: Redux for local state, API for persistence
 5. **SQLAlchemy ORM**: Database-agnostic, supports multiple SQL backends
-
-## 📞 Support & Contact
-
-For issues or questions regarding this implementation, refer to:
-- API Documentation: `http://localhost:8000/docs`
-- Component Documentation: See inline comments in source files
-- Architecture: Review this README and code structure
-
----
-
-**Version**: 1.0.0  
-**Last Updated**: January 2026  
-**Status**: Production Ready
